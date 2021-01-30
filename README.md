@@ -1,4 +1,4 @@
-# Srver-client-py
+# Server-client-py
 You don't say what the actual problem is, or show any errors, but here are some things to check.
 
 Firstly, does the socket actually exist?
