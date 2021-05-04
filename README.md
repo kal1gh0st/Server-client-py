@@ -1,4 +1,6 @@
 # Server-client-py
+![immagine](https://user-images.githubusercontent.com/56889513/117021020-40dc2180-acf7-11eb-879c-59e141cc54cc.png)
+
 You don't say what the actual problem is, or show any errors, but here are some things to check.
 
 Firstly, does the socket actually exist?
